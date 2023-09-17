@@ -2,4 +2,4 @@
 
 An introduction to REST APIs in SpringBoot. 
 
-**Contributors: ** Hammad Rashid
+**Contributors:** Hammad Rashid
